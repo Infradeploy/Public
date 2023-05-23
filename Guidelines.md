@@ -1,10 +1,10 @@
 # Code
 Repo for <blah> scripts and code. Please take note of the guidelines and make use of it accordingly.  
 
-## coding Guidelines
+## Coding Guidelines
 We need guidelines for us to have a uniform way of coding.
 
-* Recommended scripting language is Powershell.
+* Recommended scripting language is Powershell. Only differ when Powershell can't be used.
 * Use versioning in a script. State your name and date with each change.
 * Visual Studio Code is the editor of choice. It's built-in to Github.
 * Every script needs a Readme with information about the prurpose of the script and how to use it 
