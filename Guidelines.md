@@ -14,7 +14,7 @@ We need guidelines for us to have a uniform way of coding.
 * Commment scripts, but not too much. Again, keep it readable.
 * All variable information need to be declared on top of the script. However, named parameters are the prefered method of stating them.
 * Name variables in scripts that would make sense for someone else. For example use $users for accounts, not $u
-* Use only approved verbs for creating cmdlets/functions. Use only singular nouns.
+* Name cmdlets/Functions to standards. Use only approved verbs and singular nouns. For example state "get-clientuser", not "Gather-accounts"
 * Do not use accounts for scheduled scripts in Azure/M365. Use registered application with API rights
 * Use certificates for authenticating to a registered application. Not secrets.
 
